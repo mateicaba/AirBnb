@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "jane_doe123",
+      "password": "my_favorite_color_is_blue"
+    },
+    {
+      "username": "john_smith456",
+      "password": "I_love_pizza"
+    },
+    {
+      "username": "happy_camper789",
+      "password": "good_times_ahead"
+    },
+    {
+      "username": "nature_lover111",
+      "password": "the_outdoors_are_calling"
+    },
+    {
+      "username": "book_worm222",
+      "password": "curling_up_with_a_good_book"
+    },
+    {
+      "username": "music_fan333",
+      "password": "rock_on"
+    },
+    {
+      "username": "travel_junkie444",
+      "password": "explore_the_world"
+    },
+    {
+      "username": "pet_lover555",
+      "password": "furry_friends_are_the_best"
+    }
+  ]
+}
