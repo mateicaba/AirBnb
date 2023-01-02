@@ -1,0 +1,60 @@
+body {
+  background-image: url('../../../resources/img/background-map-3.png');
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(10px);
+}
+
+.login-container {
+  margin-top: 200px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../../resources/img/background-map-3.png');
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 0 50px rgb(0, 0, 0);
+}
+
+.login-content {
+  max-width: 500px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background: rgb(178, 42, 227);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(255, 186, 66, 0.1);
+}
+
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.login-form {
+  width: 100%;
+}
+
+.login-form-button {
+  width: 100%;
+  color:rgb(178, 42, 227);
+  background-color: rgb(254, 135, 0);
+  font-weight: bold;
+}
+
+.login-form-forgot-link {
+    color:rgb(254, 135, 0);
+}
+
