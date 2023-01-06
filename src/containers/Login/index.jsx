@@ -92,6 +92,11 @@ function Login(props) {
                     Forgot password
                   </a>
                 </Col>
+                <Col>
+                  <a className="register-link" href="/registration">
+                    Register
+                  </a>
+                </Col>
               </Row>
             </Form.Item>
           </Form>
