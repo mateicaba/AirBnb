@@ -1,6 +1,8 @@
 import React, { useState } from "react";
-import Login from "../Login";
+
+import AuthPage from "../AuthPage";
 import Root from "../Root";
+
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -12,7 +14,7 @@ function App() {
 
   if (!isAuthenticated) {
     return (
-      <Login
+      <AuthPage
         setIsAuthenticated={setIsAuthenticated}
         setIsLoading={setIsLoading}
       />
